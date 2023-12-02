@@ -1,0 +1,14 @@
+C:\Users\marti\OneDrive\Documents\PROJECTS\LearnC#\CSharp-ControlStatemets\bin\Debug\net8.0\CSharp-ControlStatemets.exe
+C:\Users\marti\OneDrive\Documents\PROJECTS\LearnC#\CSharp-ControlStatemets\bin\Debug\net8.0\CSharp-ControlStatemets.deps.json
+C:\Users\marti\OneDrive\Documents\PROJECTS\LearnC#\CSharp-ControlStatemets\bin\Debug\net8.0\CSharp-ControlStatemets.runtimeconfig.json
+C:\Users\marti\OneDrive\Documents\PROJECTS\LearnC#\CSharp-ControlStatemets\bin\Debug\net8.0\CSharp-ControlStatemets.dll
+C:\Users\marti\OneDrive\Documents\PROJECTS\LearnC#\CSharp-ControlStatemets\bin\Debug\net8.0\CSharp-ControlStatemets.pdb
+C:\Users\marti\OneDrive\Documents\PROJECTS\LearnC#\CSharp-ControlStatemets\obj\Debug\net8.0\CSharp-ControlStatemets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Documents\PROJECTS\LearnC#\CSharp-ControlStatemets\obj\Debug\net8.0\CSharp-ControlStatemets.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Documents\PROJECTS\LearnC#\CSharp-ControlStatemets\obj\Debug\net8.0\CSharp-ControlStatemets.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Documents\PROJECTS\LearnC#\CSharp-ControlStatemets\obj\Debug\net8.0\CSharp-ControlStatemets.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Documents\PROJECTS\LearnC#\CSharp-ControlStatemets\obj\Debug\net8.0\CSharp-ControlStatemets.dll
+C:\Users\marti\OneDrive\Documents\PROJECTS\LearnC#\CSharp-ControlStatemets\obj\Debug\net8.0\refint\CSharp-ControlStatemets.dll
+C:\Users\marti\OneDrive\Documents\PROJECTS\LearnC#\CSharp-ControlStatemets\obj\Debug\net8.0\CSharp-ControlStatemets.pdb
+C:\Users\marti\OneDrive\Documents\PROJECTS\LearnC#\CSharp-ControlStatemets\obj\Debug\net8.0\CSharp-ControlStatemets.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Documents\PROJECTS\LearnC#\CSharp-ControlStatemets\obj\Debug\net8.0\ref\CSharp-ControlStatemets.dll
